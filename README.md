@@ -2,6 +2,15 @@
 
 # List of AI Residency Programs
 
+## All year internships: 
+- MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
+
+## 2020 
+- Google X AI Residency [[Link](https://x.company/careers-at-x/4225880002/)]
+- Google AI Resident (Health), 2020 Start - London, UK  [[Link](https://careers.google.com/jobs/results/136709006283416262-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
+- Google AI Resident (Health), 2020 - Start Palo Alto, CA, USA [[Link](https://careers.google.com/jobs/results/95901233513931462-google-ai-resident-health-2020-start-fixed-term-employee/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=Residency%20Program%20Healthcare&sort_by=relevance)]
+- OpenAI 2020 Winter Scholars [[Link](https://jobs.lever.co/openai/d30e1f04-b548-4503-ba8b-9853cb49bdc7)]. Application Deadline: Nov 15, 2019.
+
 ## 2019
 
 - Koninklijke Bibliotheek Researcher-in-residence [[Link](https://www.kb.nl/organisatie/vacatures-en-stages/researcher-in-residence)]
@@ -40,6 +49,7 @@
 [[Link 3](https://www.reddit.com/r/MachineLearning/comments/7t9y9f/discussion_facebook_ai_residency_closed_early/)], [[Link4](https://www.reddit.com/r/MachineLearning/comments/ava6ou/d_has_anyone_heard_from_facebook_ai_residency_for/)], [[2018-Discussion Link](https://www.reddit.com/r/MachineLearning/comments/7w5unr/d_has_anybody_heard_back_from_facebook_ai/)]
 - Uber AI Residency Program: [[Link](https://www.reddit.com/r/MachineLearning/comments/7yycov/d_introducing_the_uber_ai_residency/)],[[Hackerrank test 2019](https://www.reddit.com/r/artificial/comments/ajc9x1/uber_residency_hackerrank_test/)], [[2019 - Response](https://www.reddit.com/r/artificial/comments/any7h5/uber_ai_residency_response/)]
 - IBM AI Residency Program [[Link](https://www.reddit.com/user/rockstar0404/comments/ariclc/ibm_ai_residency_2019/)]
+- Intel AI Residency Program [[Link](https://www.reddit.com/user/rockstar0404/comments/b7p3lb/intel_ai_residency_2019/)]
 - Google Brain AI Residency [[Link - 2017 results](https://www.reddit.com/r/MachineLearning/comments/63vfst/d_google_brain_residency_results/)],[[2015 - Link Results](https://www.reddit.com/r/MachineLearning/comments/3px8l0/google_brain_residency_program/)]
 - If rejected [[Link](https://www.reddit.com/r/MachineLearning/comments/8hj0ly/d_programs_to_consider_after_rejection_for_ai/)]
 
@@ -162,8 +172,8 @@ Tech leaders Intel, Uber, and Facebook offered year-long AI residency programs t
 
 Japanese software development company Preferred Networks also organized a 4-month AI residency program this year. The company opened applications for their 2019 intern program in September. The application deadline has not yet been announced. Preferred Networks is renown for applying real-time machine-learning technologies to new applications in the field of IOT.
 
-### Comments
+### Comments and Credits
 
 - Feel free to send pull requests for the repository. 
 - Plan to keep this updated in the long term
-- Credits - Some content is adapted from Awesome AI Residency repository (https://github.com/dangkhoasdc/awesome-ai-residency)
+- Credits - Some links are adapted Awesome AI Residency repository (https://github.com/dangkhoasdc/awesome-ai-residency)
